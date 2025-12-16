@@ -40,11 +40,8 @@ Players must repair a broken timeline by **rewinding**, **fast-forwarding**, and
 3. Select **“Open with Live Server”**
 
 ### Option 2: Local Server
-You can also host this project using any local HTTP server.
+https://chikle9090.github.io/chrono-repair-rush/
 
-> ⚠️ Opening `index.html` directly using `file://` may prevent assets from loading correctly.
-
----
 
 ## 📁 Project Structure
 
